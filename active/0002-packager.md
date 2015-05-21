@@ -18,7 +18,7 @@ The current app assembling strategy is naive as it merely merges and concats inp
   - package
 - Traverse a dependency graph to gain selective builds
 - Lay the infrastructure for the build-side of engines
-- deprecate the hard dependency on Bower in favor NPM
+- deprecate the hard dependency on Bower in favor of NPM
 - deprecate app.import API
 
 # Definitions
